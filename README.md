@@ -104,7 +104,7 @@ Output images will be saved in ``` results/model_name/result_image``` folder.
 
 ## Performance
 
-<img src= "https://github.com/chosj95/MIMO-deblur/blob/main/img/Graph.jpg" width="50%">
+<img src= "https://github.com/chosj95/MIMO-UNet/blob/main/img/Graph.jpg" width="50%">
 
 |   Method    | MIMO-UNet | MIMO-UNet+ | MIMO-UNet++ |
 | :---------: | :-------: | :--------: | :---------: |
@@ -123,7 +123,7 @@ We thus present Table and Figure containing the re-measured inference time using
 
 The inference times presented below were all measured using an RTX3090 due to the recent upgrade of our system. (The use of VRAM was restricted to 12 GB, which is the same value as that of Titan XP)
 
-<img src= "https://github.com/chosj95/MIMO-deblur/blob/main/img/Graph_sync.jpg" width="50%">
+<img src= "https://github.com/chosj95/MIMO-UNet/blob/main/img/Graph_sync.jpg" width="50%">
 
 | Methods         | Async-Time*(s) | Sync-Time** (s) | PSNR      |
 | --------------- | ----------- | ----------- | --------- |
