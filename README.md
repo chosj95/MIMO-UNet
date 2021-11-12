@@ -160,4 +160,5 @@ You can test our network following the instruction above.
 - MIMO-UNet+ (RealBlur): https://drive.google.com/file/d/1N3n-ozw1twt96ohX4tjsSAIcHrlNwHZ7/view?usp=sharing
 
 \* The test code for RealBlur dataset will be released soon.
+\** We measured PSNR using [official RealBlur test code](https://github.com/rimchang/RealBlur#evaluation). You can get the PSNR we achieved by cloning and following the RealBlur repository.
 
